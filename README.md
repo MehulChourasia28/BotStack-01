@@ -1,4 +1,4 @@
-# Russian Roulette Bot Game
+# Botstack 01 - Russian Roulette Bot Game
 
 A strategic turn-based game implementation where players (bots or humans) face off in a Russian Roulette-style challenge with tactical items and multiple rounds. This project was developed as part of a competitive programming exercise.
 
